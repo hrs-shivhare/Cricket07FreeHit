@@ -1,0 +1,4 @@
+LIBRARY Cricket07FreeHit
+EXPORTS
+    InitializeASI
+    GetFreeHitStatus

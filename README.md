@@ -5,8 +5,11 @@ An ASI plugin that extends EA Sports Cricket 07's existing free-hit rule to limi
 ## Features
 
 - Free hits in international, domestic and exhibition limited-overs matches, including custom match lengths.
+- Works with human and CPU players during played deliveries.
+- Test and unlimited-overs matches remain excluded.
 - Supports modified executables when the required game routines are compatible.
 - Logs compatibility warnings and skips the patch if required checks fail.
+- No configuration needed; does not modify game files on disk.
 
 ## Installation
 
